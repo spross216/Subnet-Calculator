@@ -24,4 +24,4 @@ python3 subnet.py
 ```
 This will launch the application window, where you can input the network octet and select the number of subnets using the buttons provided. After selecting the desired number of subnets click the "Submit" button to generate the CSV file.
 
-Alternatively, you could navigate to the /dist directory and grab the .exe file 
+Alternatively, you could navigate to the directory the repo was cloned to, and grab the .exe file 
